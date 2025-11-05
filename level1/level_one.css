@@ -29,5 +29,10 @@ body {
   } .meal-card:hover {
       opacity: 0.6;
   }
-  
+  @media{
+
+
+
+    
+  }
   /* Insert @Media queries here! */
